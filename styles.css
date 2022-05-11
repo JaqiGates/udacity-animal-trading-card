@@ -1,0 +1,47 @@
+h3 {
+    margin-left: 2.5px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 300px;
+}
+
+.card {
+    border: 1px solid #dedede;
+    box-shadow: 6px 6px #e9e9e9af;
+    margin: auto;
+    padding: 10px;
+    width: 305px;
+}
+
+.text {
+    border: 1px solid #dedede;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    padding: 10px;
+    width: 280px;
+    height: 255px;
+    font-size: 12px;
+    font: "Times New Roman";
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+span {
+    font-weight: bold;
+}
+
+.italics {
+    font-style: italic; 
+}
+
