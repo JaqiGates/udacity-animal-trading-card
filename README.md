@@ -1,6 +1,6 @@
 # udacity-animal-trading-card
-Animal trading card created using HTML and CSS. Styled as close as possible to the provided example.
- 
+This project was submitted to Udacity during the Intro to Programming Nanodegree course. The project asks for an animal trading card, styled as close as possible to Udacity's prototype using HTML and CSS.
+
 ### Prototype:
  
 <img src="design-prototype.png" width="300">
